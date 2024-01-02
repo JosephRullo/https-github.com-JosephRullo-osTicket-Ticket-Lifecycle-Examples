@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<h2>Step 1.</h2>
+<h2>Step 1.</h2> Let's begin with creating a new ticket as a "User" within osTicket. For this example we will login here http://localhost/osTicket/ as one of the Users we created in the previous install and configuration osTicket  
 <p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
