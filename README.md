@@ -1,9 +1,14 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://imgur.com/C9d2T2j.png" height="80%" width="80%" alt="Disk Sanitization Steps alt="osTicket logo"/>
 </p>
-
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1> <p align="center"> osTicket - Ticket Lifecycle: Intake Through Resolution </h1> 
+<p align="center"> This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.
+<br />
+<br />
+<br /> 
+<br />
+<h1></h1>
+<br />
 
 
 <h2>Environments and Technologies Used</h2>
