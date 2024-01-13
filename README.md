@@ -50,3 +50,16 @@ Let's begin with signing in as one of the users that was created in the previous
 </p>
 <br />
 
+<h2>Step 2.</h2> 
+
+**Create New Ticket**
+<p>
+After signing in as a User, go to the "Open New Ticket" tab at the top of the screen. Now choose a "Help Topic" that best fits the issue that is occuring. In this example the user will go to http://localhost/osTicket/ and click on "Sign in" in the upper right corner. Now enter in the Username and Password that was assigned to them and click "Sign In".
+<p>
+<p>
+<img src="https://i.imgur.com/bDkiuYs.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0xAnA8Q.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
