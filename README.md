@@ -28,11 +28,18 @@
 - Working the Issue
 - Resolution
 
+****Note**** Please view these tutorials for a full explanation of those steps.
+<p>
+https://github.com/josephrullo/osTicket-Prerequisites-and-Installation
+<p>
+https://github.com/josephrullo/osTicket---Post-Install-Configuration
+
 <h2>Lifecycle Stages</h2>
 
-<h2>Step 1.</h2> Let's begin with signing in as one of the users that was created in the previous installation and configuration of osTicket. (Please view these tutorials for a full explanation of those steps. (https://github.com/josephrullo/osTicket-Prerequisites-and-Installation) (https://github.com/josephrullo/osTicket---Post-Install-Configuration) In this example the user will go to http://localhost/osTicket/ and click on "Sign in" in the upper right corner. Now enter in the Username and Password that was assigned to them.
+<h2>Step 1.</h2> Let's begin with signing in as one of the users that was created in the previous installation and configuration of osTicket. In this example the user will go to http://localhost/osTicket/ and click on "Sign in" in the upper right corner. Now enter in the Username and Password that was assigned to them and click "Sign In".
 <p>
 <p>
+<img src="https://i.imgur.com/cCrb2nP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/0xAnA8Q.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
