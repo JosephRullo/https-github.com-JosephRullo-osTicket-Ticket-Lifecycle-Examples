@@ -97,11 +97,25 @@ Now that several tickets have been submitted, it's time for the Agents to respon
 
 **Answering Tickets**
 <p>
-The Agent can now see all the open tickets they have access to and notices that there is a "Emergency" priority level ticket that is effecting the shopping cart. They click on the ticket to open it and examine it further. The Agent can now see that this ticket is showing that customers are unable to view their shopping cart to complete their purchase. They check above and take note of the following: "Priority" is set to "Emergency", it is "Assigned to" no Agent yet, the "Help Topic" is set to "Business Critical Outage", the "SLA Plan" is set to "Sev-A" (the higest SLA that was setup in the previous tutorial, that needs to be answered within 1hr on a 24/7 schedule) and that the Department is set to "Support". After reviewing this, the Agent considers the severity and knows that the System Administrators are responsible for all "Business Critical Outage" tickets and reassigns it to their Department. They do this by clicking on the "Support" Department highlighted in blue and selects "System Administrators", and leaves a note explaining why they are transferring it.
+The Agent can now see all the open tickets they have access to and notices that there is a "Emergency" priority level ticket that is effecting the shopping cart. They click on the ticket to open it and examine it further. The Agent can now see that this ticket is showing that customers are unable to view their shopping cart to complete their purchase. They check above and take note of the following: "Priority" is set to "Emergency", it is "Assigned to" no Agent yet, the "Help Topic" is set to "Business Critical Outage", the "SLA Plan" is set to "Sev-A" (the higest SLA that was setup in the previous tutorial, that needs to be answered within 1hr on a 24/7 schedule) and that the Department is set to "Support". After reviewing this, the Agent considers the severity and knows that the System Administrators are responsible for all "Business Critical Outage" tickets and reassigns it to their Department. They do this by clicking on the "Support" Department highlighted in blue and selects "System Administrators", and leaves a note explaining why they are transferring it. They then contact the Sytem Admin (in this example Joe) to notify them about the situation.
 <p>
 <p>
 <img src="https://i.imgur.com/UggAnmT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/TyVoyUJ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<h2>Step 6.</h2> 
+
+**Answering Tickets (continued)**
+<p>
+The Admin opens the ticket and reads about the problem. They see that Agent Jane Doe originally reviewed this ticket and rightly reassigned it to the appropriate Department. Next the Admin assigns the ticket to themselves (since it is their responsibility in this case) by clicking on the "Unassigned" grayed out and select their name. Now they begin to write a response explaining the steps they are taking to resolve the issue.
+<p>
+<p>
+<img src="https://i.imgur.com/Pt3Wwsd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UgO5syE.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
