@@ -54,11 +54,12 @@ Let's begin with signing in as one of the users that was created in the previous
 
 **Create New Ticket**
 <p>
-After signing in as a User, go to the "Open New Ticket" tab at the top of the screen. Now choose a "Help Topic" that best fits the issue that is occuring -> Next type in an "Issue Summary" of the problem. -> below that enter in a more detailed description of what's going on so that the Agents have a good idea of what's going on and how to resolve it. -> click "Create Ticket" to submit it.
+After signing in as a User, go to the "Open New Ticket" tab at the top of the screen. Now choose a "Help Topic" that best fits the issue that is occuring -> Next type in an "Issue Summary" of the problem. -> below that enter in a more detailed description of what's going on so that the Agents have a good idea of what's going on and how to resolve it. -> click "Create Ticket" to submit it. Now you can see the newly created ticket, with it's own ticket number next to the "Issue Summary", the date and time created, the User who issued it, and the description of the problem.
 <p>
 <p>
 <img src="https://i.imgur.com/bDkiuYs.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/0xAnA8Q.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uwt7KBr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
