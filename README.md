@@ -79,3 +79,18 @@ Now for practic let's submit additional tickets with varying issues and topics f
 <p>
 </p>
 <br />
+
+<h2>Step 3.</h2> 
+
+**Answering Tickets**
+<p>
+Now that several tickets have been submitted, it's time for the Agents to respond to them. Let's begin by signing in as one of the Agents (in this case Jane Doe) we created in the previous tutorial. The Agent notices that there is a "Emergency" priority level ticket that is effecting the shopping cart of the business. They click on the ticket to open it to examine it further. The Agent can now see
+<p>
+<p>
+<img src="https://i.imgur.com/XogvqBw.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UggAnmT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TyVoyUJ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
