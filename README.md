@@ -82,6 +82,19 @@ Now for practic let's submit additional tickets with varying issues and topics f
 
 <h2>Step 4.</h2> 
 
+**Agent Sign In**
+<p>
+Now that several tickets have been submitted, it's time for the Agents to respond to them. Let's begin by signing in as one of the Agents (in this case Jane Doe) we created in the previous tutorial. 
+<p>
+<p>
+<img src="https://i.imgur.com/XogvqBw.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+<h2>Step 5.</h2> 
+
 **Answering Tickets**
 <p>
 Now that several tickets have been submitted, it's time for the Agents to respond to them. Let's begin by signing in as one of the Agents (in this case Jane Doe) we created in the previous tutorial. The Agent notices that there is a "Emergency" priority level ticket that is effecting the shopping cart of the business. They click on the ticket to open it to examine it further. The Agent can now see that this ticket is showing that customers are unable to view their shopping cart to complete purchase. They check above and take note of the following: "Priority" is set to "Emergency", the "Help Topic" is set to "Business Critical Outage", the "SLA Plan" is set to "Sev-A" (the higest SLA that was setup in the previous tutorial, that needs to be answered within 1hr on a 24/7 schedule) and that the Department is set to "Support". After reviewing this, the considers the severity and knows that the System Administrators are responsible for all "Business Critical Outage" tickets and reassigns it to their Department. They do this by clicking on the "Support" Department highlighted in blue and selects "System Administrators", and leaving a note explaining why they are transferring it.
