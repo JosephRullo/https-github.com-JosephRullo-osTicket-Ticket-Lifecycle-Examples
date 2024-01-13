@@ -36,7 +36,11 @@ https://github.com/josephrullo/osTicket---Post-Install-Configuration
 
 <h2>Lifecycle Stages</h2>
 
-<h2>Step 1.</h2> Let's begin with signing in as one of the users that was created in the previous installation and configuration of osTicket. In this example the user will go to http://localhost/osTicket/ and click on "Sign in" in the upper right corner. Now enter in the Username and Password that was assigned to them and click "Sign In".
+<h2>Step 1.</h2> 
+
+**User Sign In**
+<p>
+Let's begin with signing in as one of the users that was created in the previous installation and configuration of osTicket. In this example the user will go to http://localhost/osTicket/ and click on "Sign in" in the upper right corner. Now enter in the Username and Password that was assigned to them and click "Sign In".
 <p>
 <p>
 <img src="https://i.imgur.com/cCrb2nP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
