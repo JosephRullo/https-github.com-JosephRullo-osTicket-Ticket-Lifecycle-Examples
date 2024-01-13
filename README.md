@@ -111,11 +111,14 @@ The Agent can now see all the open tickets they have access to and notices that 
 
 **Answering Tickets (continued)**
 <p>
-The Admin opens the ticket and reads about the problem. They see that Agent Jane Doe originally reviewed this ticket and rightly reassigned it to the appropriate Department. Next the Admin assigns the ticket to themselves (since it is their responsibility in this case) by clicking on the "Unassigned" grayed out and select their name. Now they begin to write a response explaining the steps they are taking to resolve the issue.
+The Admin opens the ticket on their computer and reads about the problem. They see that Agent Jane Doe originally reviewed this ticket and rightly reassigned it to the appropriate Department. Next the Admin assigns the ticket to themselves (since it is their responsibility in this case) by clicking on the "Unassigned" grayed out and selecting their name.They now begin to write a response explaining the steps they are taking to resolve the issue, and post the reply.
 <p>
 <p>
-<img src="https://i.imgur.com/Pt3Wwsd.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Oo6LwaD.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/UgO5syE.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P4PknKo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J82e6nj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cXxxY6i.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
