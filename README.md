@@ -134,12 +134,9 @@ Here are a few more basic examples of the tickets we created getting replied to 
 <p>
 <p>
 <img src="https://i.imgur.com/yof2jHK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/UgO5syE.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/P4PknKo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/J82e6nj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/cXxxY6i.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/5f2X3my.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/9Iu2gPR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/otmEvqU.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I5ETCul.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CLSL7M2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
