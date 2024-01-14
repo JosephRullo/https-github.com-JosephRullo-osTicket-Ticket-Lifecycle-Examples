@@ -111,7 +111,7 @@ The Agent can now see all the open tickets they have access to and notices that 
 
 **Answering Tickets (continued)**
 <p>
-The Admin opens the ticket on their computer and reads about the problem. They see that Agent Jane Doe originally reviewed this ticket and rightly reassigned it to the appropriate Department. Next the Admin assigns the ticket to themselves (since it is their responsibility in this case) by clicking on the "Unassigned" grayed out and selecting their name.They now begin to write a response explaining the steps they are taking to resolve the issue, and post the reply. After some time, in this theoretical example the Admin resolves the issue by working with the System Engineer. They open the ticket once more and post a reply stating the error has been fixed and make sure to change the "Ticket Status" to "Resolved" before posting the reply. This will now close this ticket out.
+The Admin opens the ticket on their computer and reads about the problem. They see that Agent Jane Doe originally reviewed this ticket and rightly reassigned it to the appropriate Department. Next the Admin assigns the ticket to themselves (since it is their responsibility in this case) by clicking on the "Unassigned" grayed out and selecting their name.They now begin to write a response explaining the steps they are taking to resolve the issue, and post the reply. After some time, in this theoretical example the Admin resolves the issue by working with the System Engineer. They open the ticket once more and post a reply stating the error has been fixed and make sure to change the "Ticket Status" to "Resolved" before posting the reply. This will now close this ticket out. You will notice that every action is documented on the ticket, to easily reference all the steps taken to resolve it.
 <p>
 <p>
 <img src="https://i.imgur.com/zQHyVPa.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -120,6 +120,7 @@ The Admin opens the ticket on their computer and reads about the problem. They s
 <img src="https://i.imgur.com/J82e6nj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/cXxxY6i.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 <img src="https://i.imgur.com/5f2X3my.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/9Iu2gPR.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 </p>
