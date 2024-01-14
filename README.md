@@ -100,7 +100,7 @@ Now that several tickets have been submitted, it's time for the Agents to respon
 The Agent can now see all the open tickets they have access to and notices that there is a "Emergency" priority level ticket that is effecting the shopping cart. They click on the ticket to open it and examine it further. The Agent can now see that this ticket is showing that customers are unable to view their shopping cart to complete their purchase. They check above and take note of the following: "Priority" is set to "Emergency", it is "Assigned to" no Agent yet, the "Help Topic" is set to "Business Critical Outage", the "SLA Plan" is set to "Sev-A" (the higest SLA that was setup in the previous tutorial, that needs to be answered within 1hr on a 24/7 schedule) and that the Department is set to "Support". After reviewing this, the Agent considers the severity and knows that the System Administrators are responsible for all "Business Critical Outage" tickets and reassigns it to their Department. They do this by clicking on the "Support" Department highlighted in blue and selects "System Administrators", and leaves a note explaining why they are transferring it. They then contact the Sytem Admin (in this example Joe) to notify them about the situation.
 <p>
 <p>
-<img src="https://i.imgur.com/UggAnmT.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CA9NjRa.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/TyVoyUJ.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
