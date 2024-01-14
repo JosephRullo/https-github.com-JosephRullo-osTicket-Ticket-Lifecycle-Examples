@@ -141,3 +141,4 @@ Here are a few more basic examples of the tickets we created getting replied to 
 <p>
 </p>
 <br />
+<h2> <p align="center"> This Concludes the osTicket Lifecycle Tutorial.</h2>
