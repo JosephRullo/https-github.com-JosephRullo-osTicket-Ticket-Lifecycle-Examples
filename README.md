@@ -26,7 +26,7 @@
 - Working the Issue
 - Resolution
 
-****Note**** Please view these tutorials for a full explanation of those steps.
+****Note:**** The context in this tutorial continues from the installation and configuration of osTicket that was done prior. Please view these tutorials for a full walkthrough of those steps.
 <p>
 https://github.com/josephrullo/osTicket-Prerequisites-and-Installation
 <p>
