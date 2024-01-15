@@ -69,8 +69,8 @@ After signing in as a User, go to the "Open New Ticket" tab at the top of the sc
 Now for practic let's submit additional tickets with varying topics and issues for the Agents to resolve.
 <p>
 <p>
-<img src="https://i.imgur.com/mcKbi2h.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/im11vWx.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mIYjWZy.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AAwf8Dr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/YGQYiia.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
