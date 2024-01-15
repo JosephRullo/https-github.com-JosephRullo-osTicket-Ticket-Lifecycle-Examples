@@ -66,7 +66,7 @@ After signing in as a User, go to the "Open New Ticket" tab at the top of the sc
 
 **Submit Additional Tickets**
 <p>
-Now for practic let's submit additional tickets with varying issues and topics for the Agents to resolve.
+Now for practic let's submit additional tickets with varying topics and issues for the Agents to resolve.
 <p>
 <p>
 <img src="https://i.imgur.com/mcKbi2h.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
