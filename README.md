@@ -28,9 +28,9 @@
 
 ****Note:**** The context in this tutorial continues from the installation and configuration of osTicket that was done prior. Please view these tutorials for a full walkthrough of those steps.
 <p>
-https://github.com/josephrullo/osTicket-Prerequisites-and-Installation
+https://github.com/josephrullo/osTicket-Prerequisites-and-Installation/blob/main/README.md
 <p>
-https://github.com/josephrullo/osTicket---Post-Install-Configuration
+https://github.com/josephrullo/osTicket---Post-Install-Configuration/blob/main/README.md
 
 <h2>Lifecycle Stages</h2>
 
